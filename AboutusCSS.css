@@ -64,6 +64,7 @@ h3{
 
 @media(max-width: 750px){
     .Aboutus_div{
+        background-color: rgba(0, 0, 0, 0);
         padding: 15px;
         align-items: center;
         flex-direction: column;
@@ -81,6 +82,7 @@ h3{
         margin-bottom: 20px;
     }
     .intro_div{
+        background-color: rgba(0, 0, 0, 0.7);
         margin-left: 0px;
         border-radius: 10px;
     }
